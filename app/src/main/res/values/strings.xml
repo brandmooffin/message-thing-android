@@ -1,7 +1,15 @@
 <resources>
     <string name="app_name">MessageThing</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
     <string name="device_name">Device name</string>
+    <string name="check_messages">Check messages</string>
+    <string name="enter_device_name">Enter device name</string>
+    <string name="save_changes">Save changes</string>
+    <string name="send_to_device">Send to device</string>
+    <string name="message">Message</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">Send</string>
+    <string name="from_device_name">From device</string>
+    <string name="title_send_message">Send message</string>
+    <string name="title_settings">Settings</string>
 </resources>
